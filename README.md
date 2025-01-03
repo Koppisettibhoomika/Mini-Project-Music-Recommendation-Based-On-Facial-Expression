@@ -61,11 +61,9 @@ A cutting-edge project that bridges **Artificial Intelligence**, **Computer Visi
 1. Clone the repository:
    ```bash
    git clone https://github.com/Koppisettibhoomika/Mini-Project-Music-Recommendation-Based-On-Facial-Expression-
+   
    ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+   
 3. Run the program on Google Colab for webcam functionality and model execution.
 
 ---
