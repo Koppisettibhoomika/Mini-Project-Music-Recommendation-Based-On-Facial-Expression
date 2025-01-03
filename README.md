@@ -31,7 +31,8 @@ A cutting-edge project that bridges **Artificial Intelligence**, **Computer Visi
   - 48x48 grayscale images of facial expressions.
   - 7 emotion categories.
   - 35,887 images split into training and testing datasets.
-  -  The training dataset consists of 26915 images and the testing dataset contains 8972 images.
+  - The training dataset consists of 26915 images and the testing dataset contains 8972 images.
+  - For data set visit https://www.kaggle.com and search fer2013 dataset.
 
 ---
 
